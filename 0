@@ -1,0 +1,44 @@
+{
+  "name": "149 Cottage Lake Way, Columbia, SC 29209",
+  "image": "ipfs://QmaLn6ZhyX7chtrjvpnXxeqA1mjRd7BuFXbWSaMyxK5rpC/hoc-images/149-Cottage-Lake-Way.png",
+  "description": "Newly renovated three-bedroom home in a great central location. The main level features all updated flooring, a combination of wood laminate and tile, so you can easily keep a clean and beautiful living environment. The living room/dining room space is great for entertaining and relaxing with loved ones. Cook up your favorite meals in the galley-style kitchen, offering updated appliances and sliding glass door access to the walkout patio. The cozy family room is perfect for kicking back and watching your favorite shows and movies. The sprawling master suite comes equipped with a double vanity, soaking tub, and huge walk-in closet. Less than a 5 minute drive to restaurants, groceries, Walmart, Lowes, and more.",
+  "attributes": [
+    {
+      "trait_type": "Property Type",
+      "value": "House"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": "3"
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": "2.5"
+    },
+    {
+      "trait_type": "Year Built",
+      "value": "2006"
+    },
+    {
+      "trait_type": "Home Size Sq Ft",
+      "value": "1495"
+    },
+    {
+      "trait_type": "Lot Size Sq Ft",
+      "value": "4356"
+    },
+    {
+      "trait_type": "Market",
+      "value": "Columbia, SC"
+    },
+    {
+      "trait_type": "City",
+      "value": "Columbia"
+    },
+    {
+      "trait_type": "State",
+      "value": "SC"
+    }
+  ],
+  "external_url": "https://onchain.roofstock.com/properties/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0"
+}
