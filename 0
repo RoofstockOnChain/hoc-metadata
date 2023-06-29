@@ -1,6 +1,6 @@
 {
   "name": "149 Cottage Lake Way, Columbia, SC 29209",
-  "image": "ipfs://QmaLn6ZhyX7chtrjvpnXxeqA1mjRd7BuFXbWSaMyxK5rpC/hoc-images/149-Cottage-Lake-Way.png",
+  "image": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/149-Cottage-Lake-Way.png",
   "description": "Newly renovated three-bedroom home in a great central location. The main level features all updated flooring, a combination of wood laminate and tile, so you can easily keep a clean and beautiful living environment. The living room/dining room space is great for entertaining and relaxing with loved ones. Cook up your favorite meals in the galley-style kitchen, offering updated appliances and sliding glass door access to the walkout patio. The cozy family room is perfect for kicking back and watching your favorite shows and movies. The sprawling master suite comes equipped with a double vanity, soaking tub, and huge walk-in closet. Less than a 5 minute drive to restaurants, groceries, Walmart, Lowes, and more.",
   "attributes": [
     {
@@ -40,5 +40,170 @@
       "value": "SC"
     }
   ],
-  "external_url": "https://onchain.roofstock.com/properties/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0"
+  "external_url": "https://onchain.roofstock.com/properties/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0",
+  "latitude": 33.959643,
+  "longitude": -80.945429,
+  "video_walkthrough_url": "https://www.youtube.com/embed/tu7RMFGyuRk",
+  "images": [
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/01-front-view.jpeg",
+      "description": "Front view"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/02-front-view.jpeg",
+      "description": "Front view"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/03-living-room.jpeg",
+      "description": "Living room"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/04-living-room.jpeg",
+      "description": "Living room"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/05-dining-room.jpeg",
+      "description": "Dining room"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/06-kitchen.jpeg",
+      "description": "Kitchen"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/07-kitchen.jpeg",
+      "description": "Kitchen"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/08-kitchen.jpeg",
+      "description": "Kitchen"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/09-bedroom.jpeg",
+      "description": "Bedroom"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/10-bedroom.jpeg",
+      "description": "Bedroom"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/11-main-bedroom.jpeg",
+      "description": "Main bedroom"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/12-main-bedroom.jpeg",
+      "description": "Main bedroom"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/13-main-bathroom.jpeg",
+      "description": "Main bathroom"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/14-rear-view.jpeg",
+      "description": "Rear view"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/15-rear-view.jpeg",
+      "description": "Rear view"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/16-floor-plan-lower-level.jpeg",
+      "description": "Floor plan (Lower level)"
+    },
+    {
+      "image_url": "ipfs://QmPXKLfkYJYRLcvJmoY7FNZotgPN9TmEYGT3x23WKjjFn9/hoc-images/0/17-floor-plan-upper-level.jpeg",
+      "description": "Floor plan (Upper level)"
+    }
+  ],
+  "documents": [
+    {
+      "category": "Property",
+      "name": "Assessment Report",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/property-assessment.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Evidence of Insurance",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/evidence-of-insuracne.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Insurance Policy",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/insurance-policy.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Disclosure Statement",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/disclosure-statement.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "HOA CC&Rs",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/hoa-ccnrs.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Deed",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/deed.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Renovation Details",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/renovation-details.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Property",
+      "name": "Title Report",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/title-report.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Transaction",
+      "name": "LLC Administration Agreement",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/llc-admin-agreement.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Transaction",
+      "name": "LLC Agreement",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/llc-agreement.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Transaction",
+      "name": "Purchase & Sale Agreement",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/purchase-and-sale-agreement.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "Transaction",
+      "name": "Token Administration Agreement",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/token-admin-agreement.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "LLC",
+      "name": "Articles of Organization",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/articles-of-organization.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "LLC",
+      "name": "EIN",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/ein.pdf",
+      "document_type": "PDF"
+    },
+    {
+      "category": "LLC",
+      "name": "Good Standing",
+      "document_url": "ipfs://QmUWMB55arnbjQvmdNFcdVEwm3VfAi8XFnNMzKmYqVAFcW/hoc-documents/0/good-standing-llc.pdf",
+      "document_type": "PDF"
+    }
+  ]
 }
