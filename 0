@@ -118,91 +118,91 @@
     {
       "category": "Property",
       "name": "Assessment Report",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/property-assessment.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/property-assessment.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Evidence of Insurance",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/evidence-of-insuracne.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/evidence-of-insuracne.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Insurance Policy",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/insurance-policy.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/insurance-policy.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Disclosure Statement",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/disclosure-statement.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/disclosure-statement.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "HOA CC&Rs",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/hoa-ccnrs.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/hoa-ccnrs.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Deed",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/deed.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/deed.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Renovation Details",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/renovation-details.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/renovation-details.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Property",
       "name": "Title Report",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/title-report.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/title-report.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Transaction",
       "name": "LLC Administration Agreement",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/llc-admin-agreement.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/llc-admin-agreement.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Transaction",
       "name": "LLC Agreement",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/llc-agreement.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/llc-agreement.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Transaction",
       "name": "Purchase & Sale Agreement",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/purchase-and-sale-agreement.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/purchase-and-sale-agreement.pdf",
       "document_type": "PDF"
     },
     {
       "category": "Transaction",
       "name": "Token Administration Agreement",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/token-admin-agreement.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/token-admin-agreement.pdf",
       "document_type": "PDF"
     },
     {
       "category": "LLC",
       "name": "Articles of Organization",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/articles-of-organization.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/articles-of-organization.pdf",
       "document_type": "PDF"
     },
     {
       "category": "LLC",
       "name": "EIN",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/ein.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/ein.pdf",
       "document_type": "PDF"
     },
     {
       "category": "LLC",
       "name": "Good Standing",
-      "document_url": "ipfs://QmSrfgVufdg8KUqUMJoEjSpHyhH8NX919qXyXTadqVkMyR/hoc-documents/0/good-standing-llc.pdf",
+      "document_url": "ipfs://QmTyZeZenoHJq7kLWFnfst1VTq7sd8QZjLKKyt6oQe5Wzg/hoc-documents/0/good-standing-llc.pdf",
       "document_type": "PDF"
     }
   ]
